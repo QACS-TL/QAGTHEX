@@ -5,3 +5,4 @@ oranges
 Yummy Pears
 Raspberries
 Black currants
+LEMONS
