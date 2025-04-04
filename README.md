@@ -4,3 +4,4 @@ Bananas
 oranges
 Yummy Pears
 Raspberries
+LEMONS
