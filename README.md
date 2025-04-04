@@ -1,11 +1,11 @@
 # QAGTHEX
-Eggs Peas Blah
+Eggs Peas MUSHROOMS
 Bananas
 oranges
 Pears
 Yummy Pears
 Raspberries
-Sausage
+BACON
 DAMSONS!!!!!
 Black currants
 LEMONS
